@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap");
+
+.ab {
+  display: flex;
+  justify-content: center;
+  height: 25vh;
+  align-self: center;
+  font-family: "Ibarra Real Nova", serif;
+  font-size: 20px;
+  font-weight: bold;
+
+  background-color: cadetblue;
+}
+.bc {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+.oo {
+  background-color: transparent;
+  color: rgb(22, 21, 20);
+  height: 30px;
+  width: 400px;
+  font-size: 20px;
+  font-weight: bold;
+  border-width: 0 0 2px;
+  font-family: "Ibarra Real Nova", serif;
+}
+.pp {
+  background-color: rgb(44, 40, 40);
+  color: azure;
+  border: 1px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Ibarra Real Nova", serif;
+  border-radius: 15px;
+  margin-top: 5px;
+  width: 75px;
+  height: 30px;
+  border: none;
+  margin-left: 2vh;
+}
+
+.pp:hover {
+  background-color: rgb(225, 211, 211);
+  color: rgb(24, 29, 29);
+  border: 1px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Ibarra Real Nova", serif;
+
+  transition: 500ms;
+}
